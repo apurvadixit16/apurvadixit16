@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Apurva Dixit ! 👋
 
 <!--
 **apurvadixit16/apurvadixit16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
